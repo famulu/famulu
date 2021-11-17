@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/famulu](github.com/famulu)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript** & **Ruby**
 
 - 📫 How to reach me **mohammadchohan6f@gmail.com**
 
