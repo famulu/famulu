@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [github.com/famulu](github.com/famulu)
+- 👨‍💻 All of my projects are available at [github.com/famulu](https://github.com/famulu)
 
 - 💬 Ask me about **JavaScript** & **Ruby**
 
